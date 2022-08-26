@@ -1,3 +1,4 @@
 # React Projects
-npm i 
-npm start
+run:
+- npm i 
+- npm start
