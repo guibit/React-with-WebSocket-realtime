@@ -12,7 +12,6 @@ export const CallList = (props) =>{
 
     const onClick = (callUser)=>{
         calles.forEach((element,index) => {
-            console.log(element.callId)
             let newUsers = [...calles];
 
             //user selecionado ganha selected true
